@@ -1,0 +1,3 @@
+- Imagine  a situation you are working in a branch and you need to switch to other branch but your works is not done to be commited. In this case it is best to save the branch locally.
+- when you wanted to save : stash save -click
+- after you then wnated to get those changes : stash pop (the last stash came up) or just click stash list and find out from other stash.

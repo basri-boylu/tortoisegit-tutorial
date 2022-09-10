@@ -6,3 +6,4 @@ fetch is directly get the channges without needing a merge
 I just fetch the develop branch and made some changes
 
 changes making for 3-way merge
+hfthfg
