@@ -2,3 +2,5 @@ this is my first commit
 You need to put your life into order
 what about pull operation instead of fetch?
 fetch is directly get the channges without needing a merge
+
+I just fetch the develop branch and made some changes
