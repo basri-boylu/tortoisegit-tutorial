@@ -7,5 +7,11 @@ I just fetch the develop branch and made some changes
 
 changes making for 3-way merge
 hfthfg
+<<<<<<< .mine
+hfthfg
 
-reset option do not automatically update remote repos
+=======
+hfthfg
+
+>>>>>>> .theirs
+reset option do not automatically update remote reposfind out about revert option
