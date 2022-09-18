@@ -17,3 +17,6 @@ hfthfg
 reset option do not automatically update remote reposfind out about revert option
 
 revert optionda localdaki değişikliği geri alabilirsin eğer psuhlarsan artık revert’de bir şey göremezsin
+
+
+yarro
